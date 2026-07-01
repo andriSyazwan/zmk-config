@@ -318,25 +318,37 @@ layers:
 combos:
 - p: [4, 5]
   k: (
+  l: [QWRT]
 - p: [7, 6]
   k: )
+  l: [QWRT]
 - p: [16, 17]
   k: {t: '[', s: '{'}
+  l: [QWRT]
 - p: [19, 18]
   k: {t: ']', s: '}'}
+  l: [QWRT]
 - p: [28, 29]
   k: '{'
+  l: [QWRT]
 - p: [31, 30]
   k: '}'
+  l: [QWRT]
 - p: [0, 1]
   k: $$mdi:keyboard-esc$$
+  l: [QWRT]
 - p: [10, 11]
   k: {t: 'Ctl+$$mdi:backspace$$', type: backspace}
+  l: [QWRT]
 - p: [23, 22]
   k: '~'
+  l: [QWRT]
 - p: [21, 22]
   k: {t: '`', s: '~'}
+  l: [QWRT]
 - p: [35, 34]
   k: '|'
+  l: [QWRT]
 - p: [34, 33]
   k: {t: \, s: '|'}
+  l: [QWRT]
