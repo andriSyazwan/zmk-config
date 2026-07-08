@@ -213,8 +213,8 @@ layers:
   - {t: QWRT, h: toggle}
   - PgDn
   - $$mdi:pan-left$$
-  - $$mdi:pan-down$$
   - $$mdi:pan-up$$
+  - $$mdi:pan-down$$
   - $$mdi:pan-right$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
