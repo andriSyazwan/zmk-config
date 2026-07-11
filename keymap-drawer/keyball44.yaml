@@ -208,14 +208,14 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: QWRT, h: toggle}
   - {t: QWRT, h: toggle}
-  - {t: QWRT, h: toggle}
-  - {t: QWRT, h: toggle}
+  - Ctl+C
+  - Ctl+V
   - {t: QWRT, h: toggle}
   - PgDn
-  - $$mdi:pan-right$$
-  - $$mdi:pan-up$$
-  - $$mdi:pan-down$$
   - $$mdi:pan-left$$
+  - $$mdi:pan-down$$
+  - $$mdi:pan-up$$
+  - $$mdi:pan-right$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
